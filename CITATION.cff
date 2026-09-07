@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+title: "Lossy Abstraction Safety Evaluation"
+message: "If you use or discuss this research artifact, please cite it using the metadata in this file."
+type: software
+authors:
+  - family-names: "Rao"
+    given-names: "Yajnesh"
+repository-code: "https://github.com/yajneshrao/lossy-abstraction-safety-evaluation"
+url: "https://github.com/yajneshrao/lossy-abstraction-safety-evaluation"
+version: "0.1.0"
+date-released: "2026-09-07"
+keywords:
+  - AI safety
+  - LLM security
+  - agentic AI
+  - safety evaluation
+  - lossy abstraction
+  - authorization
+  - context preservation
+abstract: >-
+  Exploratory evaluation of representation-induced false authorization in a simulated
+  multi-stage GPT-6 Astra planning pipeline. The study examines how loss of safety-critical
+  attributes at component boundaries can change downstream classification and authorization,
+  and tests safety-metadata preservation and mandatory revalidation as mitigations.
+license: CC-BY-4.0
